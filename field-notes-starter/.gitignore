@@ -1,0 +1,8 @@
+# Godot 4
+.godot/
+/android/
+*.tmp
+
+# OS clutter
+.DS_Store
+Thumbs.db
